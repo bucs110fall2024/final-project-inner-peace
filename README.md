@@ -1,18 +1,19 @@
 
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
-# << Project Title >>
-## CS110 Final Project  << Semester, Year >>
+# Sticks and Stones
+## CS110 Final Project  Fall 2024
 
 ## Team Members
 
-<< List team member names >>
+Lance Enriquez
 
 ***
 
 ## Project Description
 
-<< Give an overview of your project >>
+An adventure game where the character can interact with NPC's(non-playable characters)
+,fight enemies, and buy/sell items.
 
 ***    
 
@@ -30,11 +31,14 @@
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. start menu
+2. moveable character using arrow keys
+3. buy/sell items
+4. interact with npc's
+5. show health bar/mana bar
+6. access items in an inventory or storage
+7. create buttons that give player decisions when fighting enemies
+8. screen that tells you win or lose when fighting an enemy
 
 ### Classes
 
