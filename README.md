@@ -42,7 +42,9 @@ An adventure game where the character can interact with NPC's(non-playable chara
 
 ### Classes
 
-- << You should have a list of each of your classes with a description >>
+Player Class- creates a player object that the user controls 
+
+Enemy Class- creates an enemy object that attacks the player
 
 ## ATP
 
